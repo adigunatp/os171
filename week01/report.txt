@@ -1,0 +1,1 @@
+this week's assignment focus on tutoring us how to use git and scripting
