@@ -1,1 +1,6 @@
 w01-130217-23-PS-About: Task01
+w01-130217-23-PS-About: Task01
+w01-130217-00-PS-About: Task01
+w01-130217-00-PS-About: Task01, learn about date format
+w01-130217-01-PS-About: Task01, learn about what "cat" is
+w01-130217-01-PS-About: Task01, finish the task
