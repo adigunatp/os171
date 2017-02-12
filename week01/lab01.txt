@@ -22,3 +22,5 @@ drwxr-xr-x  2 adiguna.triputra StafCS 4096 Feb 12 23:54 xtra
 /home/fasilkom/mahasiswa/a/adiguna.triputra/os171/week01
 Today is date +%d\ %b\ %Y\ at\ %H:%M%S
 Today is date +%d\ %m\ %Y\ at\ %H:%M:%S
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
+Today is 13 Feb 2017 at 01:47:44
