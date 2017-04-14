@@ -16,3 +16,10 @@ w02-240217-21-PS-About: Task02, finish the task
 
 w03-270217-01-PS-About: Task03
 w03-272017-01-PS-About: Task03, finish the task
+
+w06-100417-01-Learn-About: Fork()
+w06-100417-01-Learn-About: Fork()
+w06-150417-01-PS-About: Task06
+w06-150417-01-PS-About: Task06
+w06-150417-02-PS-About: Task06
+w06-150417-02-PS-About: Task06, finish the task
