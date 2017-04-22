@@ -23,3 +23,10 @@ w06-150417-01-PS-About: Task06
 w06-150417-01-PS-About: Task06
 w06-150417-02-PS-About: Task06
 w06-150417-02-PS-About: Task06, finish the task
+
+w06-180417-01-Learn-About: Synchronisation
+w06-180417-01-Learn-About: Synchronisation
+w06-220417-12-PS-About: Task07
+w06-220417-12-PS-About: Task07
+w06-220417-01-PS-About: Task07
+w06-220417-01-PS-About: Task07, finish the task
