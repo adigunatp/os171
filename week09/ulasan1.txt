@@ -1,0 +1,7 @@
+Github Account: adigunatp
+URL ulasan: http://adiguna-os171.blogspot.co.id/2017/05/fungsi-fork-dalam-unix.html
+URL video: https://youtu.be/zD8UrZSEF6M .
+Video Author: Eigenfield Aparicio
+Pemetaan: Week06
+Revisi pertama: 20 Mei 2017
+Revisi terakhir: 20 mei 2017
